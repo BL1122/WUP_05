@@ -77,4 +77,4 @@ The null hypothesis odd ratio is equal to 1 therefore we can reject the null hyp
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Based off the data, we needed the cat~cat helper file. We used the file that has the data for the females only.
+Based off the data, we needed the cat~cat helper file. We used the file that has the data for the females only. We can reject the null hypothesis and determine that the triUmp drug is not an effective drug to prevent aids in females.
