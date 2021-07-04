@@ -53,7 +53,13 @@ Based on the graph about 60% of the females that took the drug still got aids. A
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~infected + treatment, data=females)
+rowPerc(table1)
+colPerc(table1)
+```
 
+The results from the table shows that 58.82% got aids taking the drug and 48.06% got aids taking the placebo.
 
 ## Inferential Results
 
