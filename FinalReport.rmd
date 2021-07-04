@@ -47,6 +47,8 @@ basicCC <- ggplot(dd2,aes(x=infected,y=prcnt*100,fill=treatment))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
+Based on the graph about 60% of the females that took the drug still got aids. About 40% that took the placebo still got aids. It appears that the drug isn't effective in preventing aids. 
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
@@ -61,3 +63,5 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based off the data, we needed the cat~cat helper file.
